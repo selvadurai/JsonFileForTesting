@@ -2,7 +2,7 @@
 "meta": {"ver":"3.0", "dis":"2019", "view":"chart", "hisStart":"t:2019-01-01T00:00:00-05:00 New_York", "hisEnd":"t:2020-01-01T00:00:00-05:00 New_York", "hisLimit":"n:10000"},
 "cols":[
 {"name":"ts", "tz":"New_York", "disKey":"s:ui::timestamp", "chartFormat":"D-MMM"},
-{"name":"v0", "id":"r:p:demo:r:23f9bec2-6d4f1daf Gaithersburg ElecMeter-Main kWh", "tz":"New_York", "cur":"m:", "his":"m:", "mod":"t:2019-02-15T18:17:39.137Z UTC", "kind":"Number", "unit":"kWh", "regionRef":"r:p:demo:r:23f9bec2-f926e48f Washington DC", "point":"m:", "disMacro":"$equipRef $navName", "equipRef":"r:p:demo:r:23f9bec2-30ecfc27 Gaithersburg ElecMeter-Main", "hisFunc":"elecKwToKwhHis", "hisMode":"sampled", "navName":"kWh", "hisInterval":"n:15 min", "siteRef":"r:p:demo:r:23f9bec2-403a40b9 Gaithersburg", "curStatus":"ok", "curVal":"n:817.1915104228824 kWh", "energy":"m:", "sensor":"m:", "siteMeter":"m:"}
+{"name":"v0", "id":"r:p:demo:r:23f9bec2-6d4f1daf Gaithersburg ElecMeter-Main kWh", "tz":"New_York", "cur":"m:", "his":"m:", "mod":"t:2019-02-15T18:17:39.137Z UTC", "kind":"Number", "unit":"kWh", "regionRef":"r:p:demo:r:23f9bec2-f926e48f Washington DC", "point":"m:", "disMacro":"$equipRef $navName", "equipRef":"r:p:demo:r:23f9bec2-30ecfc27 Gaithersburg ElecMeter-Main", "hisFunc":"elecKwToKwhHis", "hisMode":"sampled", "navName":"kWh", "hisInterval":"n:15 min", "siteRef":"r:p:demo:r:23f9bec2-403a40b9 Gaithersburg", "curStatus":"ok", "curVal":"817.1915104228824 kWh", "energy":"m:", "sensor":"m:", "siteMeter":"m:"}
 ],
 "rows":[
 {"ts":"t:2019-01-01T01:00:00-05:00 New_York", "v0":"n:131.5 kWh"},
